@@ -1,4 +1,3 @@
-console.log("hola");
 
 function add(){
     const forma=document.getElementById("forma");
